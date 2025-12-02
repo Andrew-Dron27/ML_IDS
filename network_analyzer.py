@@ -5,8 +5,6 @@ import pickle
 import numpy as np
 import pandas as pd
 
-
-
 num_flows = 0
 num_benign = 0
 num_malicious = 0
